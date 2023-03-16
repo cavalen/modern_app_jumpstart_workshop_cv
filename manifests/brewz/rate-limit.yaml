@@ -9,4 +9,4 @@ spec:
     burst: 10
     noDelay: true
     key: ${binary_remote_addr}
-    zoneSize: 10M
+    zoneSize: 10M 
